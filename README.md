@@ -1,1 +1,1 @@
-# Hospital-Managment-System
+A Hospital Management System in java
