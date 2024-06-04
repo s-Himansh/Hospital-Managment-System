@@ -1,1 +1,1 @@
-A Hospital Management System in java
+Made a Hosptital Management System using Java, MySQL, JDBC driver 
